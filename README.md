@@ -26,7 +26,7 @@ This project analyzes 4,455 responses from the PEW September 2020 national surve
 ---
 
 ## Next Steps
-A Jupyter Notebook version of this project is in progress to showcase Python-based data analysis skills.
+A Jupyter Notebook version of this project is in progress to showcase Python based data analysis skills.
 
 ---
 
