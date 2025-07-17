@@ -2,6 +2,10 @@
 
 This project analyzes 4,455 responses from the PEW September 2020 national survey to explore how age and income influence American opinions on international relations — particularly views toward Germany vs. China.
 
+## Context:
+
+Developed as a project for the course **ADTA 5130: Data Analytics I** in Fall 2024.
+
 ---
 
 ## Project Objectives
