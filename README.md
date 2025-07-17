@@ -23,8 +23,8 @@ Developed as a project for the course **ADTA 5130: Data Analytics I** in Fall 20
 ---
 
 ## Files Used
-- notebooks/pew_survey_analysis.ipynb - Final analysis notebook
-- dataset/Solo Project 1 Data Student Fall 2024.xlsx - Original Dataset
+- `notebooks/pew_survey_analysis.ipynb` - Final analysis notebook
+- `dataset/Solo Project 1 Data Student Fall 2024.xlsx` - Original Dataset
 
 ## Key Findings
 - **Younger Americans (18–29)** were more likely to support closer ties with **China** than older groups.
